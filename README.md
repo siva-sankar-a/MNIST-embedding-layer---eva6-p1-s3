@@ -33,7 +33,7 @@ Submitted by: _Siva Sankar Anil Kumar_
 - **Convolutional part**
   - The convolutional part of the network consists of 3 identical blocks
   - Each block has the following structure
-    <img src="conv.png" width="1200" height="480">
+    <img src="conv.png" width="1200" height="600">
   - The complete network consists of 3 such blocks
   - The output of these layers would end up at **7 X 7**
   - Each layer has kernel size of **3 X 3** with padding **1**
