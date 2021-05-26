@@ -113,7 +113,7 @@ Estimated Total Size (MB): 0.47
 
 # Inferences
 
-- This experiment gives good results for adding an embedding layer on to te end of GAP layer from the convolutional layer based on the winning neuron
+- This experiment gives good results for adding an embedding layer after the GAP layer from the convolutional layer based on the winning neuron
 - Embeddings have been added to produce the final result and can be replaced with concatenation and downsampling as future work
 - The neural network tends to have difficulty in classifying sum labels that can occur as a combination of different numbers
   - For example 0 as sum result can occur only with both inputs being 0. THis case is easily learnt by the network
